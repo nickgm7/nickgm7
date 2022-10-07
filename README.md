@@ -4,6 +4,8 @@ I am a recent graduate with a Bachelor of Science degree in Computer Science. I 
 
 Skills: JAVA / SPRING BOOT / REACT / JS / HTML / CSS / SWIFT / C++ / PYTHON
 
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=nickgm7&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&count_private=true&include_all_commits=true" />&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickgm7&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&locale=en&layout=compact" alt="Nick Meyer"/>
+
 - 🔭 I’m currently working on creating a full web application for a startup independent insurance company. 
 - 🌱 I’m currently learning Spring Boot and React. 
 - 📫 How to reach me: nmeyerg@gmail.com 
